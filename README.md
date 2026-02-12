@@ -72,7 +72,7 @@ _Tech stack may include:_ React (or similar), CSS/SCSS, Socket.IO client.
 ### Installation
 
 ```bash
-git clone https://github.com/Shanidhya01/BlinkChat.git
+git clone https://github.com/Shob/BlinkChat.git
 cd BlinkChat
 npm install
 ```
@@ -125,7 +125,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
-Created by [Shanidhya01](https://github.com/Shanidhya01)  
+Created by [Shobhit](https://github.com/Shobhit1729Aryan)  
 Feel free to reach out for questions or collaboration!
 
 ---
